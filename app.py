@@ -10,7 +10,7 @@ import requests
 from io import BytesIO
 
 # YouTube API details
-API_KEY = 'AIzaSyB1T3lYOgRF9Kpg2-O4U89DCEDAVFefAUg'
+API_KEY = 'enter your api'
 YOUTUBE_API_SERVICE_NAME = 'youtube'
 YOUTUBE_API_VERSION = 'v3'
 
