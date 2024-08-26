@@ -1,0 +1,5 @@
+This script uses Streamlit to create a web app for analyzing YouTube comments. 
+It fetches up to 300 comments from a video, filters out those with links and too many emojis.
+and uses VADER sentiment analysis to classify them as positive, negative, or neutral. 
+The app displays the video's title, channel name, some sample comments, and visualizes the sentiment data with bar and pie charts.
+If no relevant comments are found, it informs the user.
